@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TegSoftApp</string>
+
+    <string-array name="countries">
+        <item>ZA</item>
+        <item>AUS</item>
+        <item>TUR</item>
+        <item>RUS</item>
+    </string-array>
+</resources>
